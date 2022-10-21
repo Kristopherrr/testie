@@ -1,0 +1,4 @@
+name: EcoJobsExpansions
+version: '${project.version}'
+main: kristopher.ecojobsexpansions.EcoJobsExpansions
+api-version: 1.19
